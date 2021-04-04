@@ -22,9 +22,10 @@ Rally is a quick and easy application that anyone can pick up and use.
 !["register"](https://github.com/Idrking/rally/blob/master/docs/images/register-min.png?raw=true)
 
 !["user-dashboard"](https://github.com/Idrking/rally/blob/master/docs/images/user-dashboard.gif?raw=true)
+!["signup-task"](https://github.com/Idrking/rally/blob/master/docs/images/task-signup.gif?raw=true)
+
 
 !["task-card-info"](https://github.com/Idrking/rally/blob/master/docs/images/task-card.png?raw=true)
-!["signup-task"](https://github.com/Idrking/rally/blob/master/docs/images/task-signup.gif?raw=true)
 
 
 
@@ -32,11 +33,10 @@ Rally is a quick and easy application that anyone can pick up and use.
 !["org-info"](https://github.com/Idrking/rally/blob/master/docs/images/organization-info-min.png?raw=true)
 
 ![org-dashboard](https://github.com/Idrking/rally/blob/master/docs/images/organization-dashboard-min.png?raw=true)
-!["mark-complete"](https://github.com/Idrking/rally/blob/master/docs/images/mark-complete.gif?raw=true)
-
-
-!["manage-pending-volunteers"](https://github.com/Idrking/rally/blob/master/docs/images/manage-pending-volunteers.gif?raw=true)
 !["pending-volunteers"](https://github.com/Idrking/rally/blob/master/docs/images/pending-volunteers-min.png?raw=true)
+
+!["mark-complete"](https://github.com/Idrking/rally/blob/master/docs/images/mark-complete.gif?raw=true)
+!["manage-pending-volunteers"](https://github.com/Idrking/rally/blob/master/docs/images/manage-pending-volunteers.gif?raw=true)
 
 
 
