@@ -18,7 +18,8 @@ Rally is a quick and easy application that anyone can pick up and use.
 
 !["Landing-Page"](https://github.com/Idrking/rally/blob/master/docs/images/landing-min.png?raw=true)
 
-!["login"](https://github.com/Idrking/rally/blob/master/docs/images/login-min.png?raw=true) ["register"](https://github.com/Idrking/rally/blob/master/docs/images/register-min.png?raw=true)
+!["login"](https://github.com/Idrking/rally/blob/master/docs/images/login-min.png?raw=true) 
+!["register"](https://github.com/Idrking/rally/blob/master/docs/images/register-min.png?raw=true)
 
 
 
