@@ -7,7 +7,6 @@ import {
   MenuItem,
   Grow,
   makeStyles,
-  Container,
 } from "@material-ui/core";
 import CompactOrgListItem from "./CompactOrgListItem";
 import { Link } from "react-router-dom";
