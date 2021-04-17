@@ -1,7 +1,7 @@
 # Rally App
 
 
-`Rally: Building Communities Through Volunteering`
+> Rally: Building Communities Through Volunteering
 
 
 Rally is a volunteer management app. It was built with de-centralized non-profit organizations in mind.
