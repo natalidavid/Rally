@@ -12,15 +12,19 @@ If users are owners they can also manage their volunteers, approve applications 
 Rally is a quick and easy application that anyone can pick up and use.
 
 
-```Screenshots & GIFs```
+## Screenshots & GIFs
+
+
+### Landing, Login & Registration:
 
 !["Landing-Page"](https://github.com/Idrking/rally/blob/master/docs/images/landing-min.png?raw=true)
+
 
 !["login"](https://github.com/Idrking/rally/blob/master/docs/images/login-min.png?raw=true)
 
 !["register"](https://github.com/Idrking/rally/blob/master/docs/images/register-min.png?raw=true)
 
-
+### User Dashboard
 
 !["user-dashboard"](https://github.com/Idrking/rally/blob/master/docs/images/user-dashboard.gif?raw=true)
 
@@ -28,19 +32,19 @@ Rally is a quick and easy application that anyone can pick up and use.
 
 !["signup-task"](https://github.com/Idrking/rally/blob/master/docs/images/task-signup.gif?raw=true)
 
-
+### Organizations Page
 
 !["discover-org-page"](https://github.com/Idrking/rally/blob/master/docs/images/discover-organizations-min.png?raw=true)
 
 !["org-info"](https://github.com/Idrking/rally/blob/master/docs/images/organization-info-min.png?raw=true)
 
+### Organization's Management Page
+
 ![org-dashboard](https://github.com/Idrking/rally/blob/master/docs/images/organization-dashboard-min.png?raw=true)
 
 !["mark-complete"](https://github.com/Idrking/rally/blob/master/docs/images/mark-complete.gif?raw=true)
 
-
 !["manage-pending-volunteers"](https://github.com/Idrking/rally/blob/master/docs/images/manage-pending-volunteers.gif?raw=true)
-
 
 !["pending-volunteers"](https://github.com/Idrking/rally/blob/master/docs/images/pending-volunteers-min.png?raw=true)
 
